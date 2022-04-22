@@ -13,8 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<h1 align="center">Hi 👋, I'm Guilherme Evencio</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Evêncio</h1>
 <h3 align="center">I'm a Dentist and passionate Software Development Student from Brazil.</h3>
+<br>
+
+<p align="center">
+ &nbsp;<img height="150px" margin="4px" src="https://github-readme-stats.vercel.app/api?username=guilhermeevencio&show_icons=true&locale=en&theme=algolia" alt="guilhermeevencio" />
+ <img  margin="4px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeevencio&show_icons=true&locale=en&layout=compact&theme=algolia" alt="guilhermeevencio" />
+</p>
+
 <br>
 
 <h3 align="center">Languages and Tools</h3>
@@ -29,10 +36,5 @@ Here are some ideas to get you started:
 <a href="https://guilhermeevencio.github.io/"><img alt="Personal Portfolio" src="https://img.shields.io/badge/-GuilhermeEvencio-red?style=flat-square&logo=dev.to&logoColor=white&link=https://guilhermeevencio.github.io/"></a>
 </p>
 
-
-<p align="center">
- &nbsp;<img height="150px" margin="4px" src="https://github-readme-stats.vercel.app/api?username=guilhermeevencio&show_icons=true&locale=en&theme=algolia" alt="guilhermeevencio" />
- <img  margin="4px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeevencio&show_icons=true&locale=en&layout=compact&theme=algolia" alt="guilhermeevencio" />
-</p>
 
 
