@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
  
 <h1 align="center">Hi 👋, I'm Guilherme Evêncio</h1>
-<h3 align="center">I'm a Dentist and passionate Software Development Student from Brazil.</h3>
+<h3 align="center">I'm a Passionate Software Development Student from Brazil.</h3>
 <br>
 
 <p align="center">
