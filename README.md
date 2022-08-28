@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/guilhermeevencio/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Guilherme_Evêncio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeevencio/"></a>
-<a href="https://guilhermeevencio.github.io/"><img alt="Personal Portfolio" src="https://img.shields.io/badge/-GuilhermeEvencio-red?style=flat-square&logo=dev.to&logoColor=white&link=https://guilhermeevencio.github.io/"></a>
 </p>
 
 
