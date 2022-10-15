@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <span>
-  <img />
- </span>
+ <div align="center" style="background:white; border-radius:8px; padding:2rem; display:flex;  align-items:flex-start; justify-content:center;">
+ <!--Foto de João  Jesus: https://www.pexels.com/pt-br/foto/janela-de-vidro-transparente-com-moldura-de-madeira-marrom-e-branca-921294/ -->
+  <img src="assets/luzLogo.png" width='200px'/>
+ </div>
 <h1 align="center">Hi 👋, I'm Guilherme Luz</h1>
 <h3 align="center">I'm a Passionate Software Development Student from Brazil.</h3>
 <br>
