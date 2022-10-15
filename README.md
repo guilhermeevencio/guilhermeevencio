@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+ <span>
+  <img />
+ </span>
 <h1 align="center">Hi 👋, I'm Guilherme Luz</h1>
 <h3 align="center">I'm a Passionate Software Development Student from Brazil.</h3>
 <br>
