@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" alt="" />
 <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" alt="" />
 <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="" />
-<img src="https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/Apple-macOS-999999?style=for-the-badge&logo=apple&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="" />
 <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="" />
