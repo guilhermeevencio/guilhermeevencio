@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">Languages and Tools</h2>
-
-<p align="center">
-
-<br>
-<br>
-
 <h2 align="center">Connect with me!</h2>
 
 <div align="center"> 
